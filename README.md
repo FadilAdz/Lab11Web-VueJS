@@ -6,8 +6,6 @@ Lab11Web adalah aplikasi web lengkap berbasis CodeIgniter 4 untuk mengelola dat
 # $${\color{lightblue}Teknologi Yang Digunakan}$$
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<br>
-
 Postman digunakan untuk menguji dan mendokumentasikan setiap endpoint RESTful pada back‑end CodeIgniter (GET, POST, PUT, DELETE), memastikan format JSON dan status kode HTTP sudah benar sebelum diintegrasikan ke front‑end. Sementara Vue.js berperan sebagai lapisan presentasi interaktif:
 
 Menampilkan daftar Artikel dengan v-for dan two‑way binding (v-model), Memunculkan form tambah/ubah dalam modal via v-if, Menghasilkan UI real‑time saat data diubah tanpa reload halaman.
@@ -23,6 +21,9 @@ Menampilkan daftar Artikel dengan v-for dan two‑way binding (v-model), Memuncu
 | NIM           | Nama Mahasiswa                |
 | --------------|------------------------------ |
 | **312310617** | Fadil Aditya Adzima           |
+
+|Link Video Demo Aplikasi| [Klik Disini!](https://wwwwwwwww.jodi.org/) |
+| --- | --- |
 
 <br> 
 
