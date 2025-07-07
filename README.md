@@ -22,7 +22,7 @@ Menampilkan daftar Artikel dengan v-for dan two‑way binding (v-model), Memuncu
 | --------------|------------------------------ |
 | **312310617** | Fadil Aditya Adzima           |
 
-|Link Video Demo Aplikasi| [Klik Disini!](https://wwwwwwwww.jodi.org/) |
+|Link Video Demo Aplikasi| [Klik Disini!](https://BelumAdaBray.com) |
 | --- | --- |
 
 <br> 
