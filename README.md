@@ -22,8 +22,8 @@ Menampilkan daftar Artikel dengan v-for dan two‑way binding (v-model), Memuncu
 | --------------|------------------------------ |
 | **312310617** | Fadil Aditya Adzima           |
 
-|Link Video Demo Aplikasi Web| [Klik Disini!](https://BelumAdaBray.com) |
-| -------------------------- | ---------------------------------------- |
+<!-- |Link Video Demo Aplikasi Web| [Klik Disini!]() |
+| -------------------------- | --------------------- | -->
 
 <br> 
 
